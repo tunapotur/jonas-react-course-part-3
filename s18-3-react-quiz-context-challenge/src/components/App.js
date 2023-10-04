@@ -1,4 +1,5 @@
 import { useEffect, useReducer } from "react";
+import { useQuiz } from "../contexts/QuizContext";
 
 import Header from "./Header";
 import Main from "./Main";
